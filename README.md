@@ -1,5 +1,5 @@
 <h1 align="center">Computer Scientist Muhammad Hammad</h1>
-<h3 align="center">Front-End Developer | Freelancer | Expert in HTML, CSS, Bootstrap, WordPress & Shopify | Figma | Crafting Stunning Websites & E-Commerce Stores</h3>
+<h3 align="center">Front-End Developer | Freelancer | Expert in HTML, CSS, Bootstrap, DaisyUI, Javascript, React, My SQL, WordPress & Shopify | Figma | Crafting Stunning Websites & E-Commerce Stores</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hammad-001&label=Profile%20views&color=0e75b6&style=flat" alt="m-hammad-001" /> </p>
 
